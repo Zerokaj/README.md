@@ -1,6 +1,6 @@
 ### Ola, me chamo João Pedro
 - 🤓novato estudante
-- 🖖estudando front-end
+- 🖖estudando web front-end
 - 😊 pronomes: Ele/Dele
 
 <div align="left">
